@@ -1,0 +1,28 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "title": "Level: A1"
+    },
+    {
+      "id": 2,
+      "title": "Level: A2"
+    },
+    {
+      "id": 3,
+      "title": "Level: B1"
+    },
+    {
+      "id": 4,
+      "title": "Level: B2"
+    },
+    {
+      "id": 5,
+      "title": "Level: C1"
+    },
+    {
+      "id": 6,
+      "title": "Level: C2"
+    }
+  ]
+}

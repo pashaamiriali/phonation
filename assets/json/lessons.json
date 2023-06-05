@@ -1,0 +1,35 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "levelId": 1,
+      "title": "The first English class",
+      "url": "https://learnenglish.britishcouncil.org/skills/listening/a1-listening/first-english-class"
+    },{
+      "id": 2,
+      "levelId": 1,
+      "title": "A request from your boss",
+      "url": "https://learnenglish.britishcouncil.org/skills/listening/a1-listening/request-your-boss"
+    },{
+      "id": 3,
+      "levelId": 1,
+      "title": "A voicemail message",
+      "url": "https://learnenglish.britishcouncil.org/skills/listening/a1-listening/voicemail-message"
+    },{
+      "id": 4,
+      "levelId": 2,
+      "title": "Eating out",
+      "url": "https://learnenglishteens.britishcouncil.org/skills/listening/a2-listening/eating-out"
+    },{
+      "id": 5,
+      "levelId": 2,
+      "title": "Free time",
+      "url": "https://learnenglishteens.britishcouncil.org/skills/listening/a2-listening/free-time"
+    },{
+      "id": 6,
+      "levelId": 2,
+      "title": "Giving directions",
+      "url": "https://learnenglishteens.britishcouncil.org/skills/listening/a2-listening/giving-directions"
+    }
+  ]
+}

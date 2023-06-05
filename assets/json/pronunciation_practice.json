@@ -1,0 +1,52 @@
+{
+  "practices": [
+    {
+      "id": 1,
+      "lessonId": 1,
+      "audioFileName": "a1_l1.mp3",
+      "transcript": "Hello, everyone."
+    },
+    {
+      "id": 8,
+      "lessonId": 1,
+      "audioFileName": "a1_l1.mp3",
+      "transcript": "Hello! It's nice to see you all here."
+    },
+    {
+      "id": 8,
+      "lessonId": 1,
+      "audioFileName": "a1_l1.mp3",
+      "transcript": "Welcome to British Life and Language."
+    },
+    {
+      "id": 2,
+      "lessonId": 2,
+      "audioFileName": "a1_l2.mp3",
+      "transcript": "Susanne: Hi, Mario. Can you help me prepare some things for the next month?\n\nMario: OK, sure. What can I help you with?\n\nSusanne: I need to visit the customer in Germany. It's important.\n\nMario: What can I do to help?\n\nSusanne: Can you send an email to the customer? Ask them when I can visit them next week. Please do this first. It's a priority and very urgent.\n\nMario: Right. I'll do it today.\n\nSusanne: Thanks. This next task is also important. Can you invite everyone to the next team meeting?\n\nMario: Yes, I will.\n\nSusanne: But first you need to book a meeting room. After that, please send everyone an email about it.\n\nMario: Yes, of course.\n\nSusanne: And finally, can you write a short report about our new project? I have to give a presentation to our managers next month. Please do it when you have time – sometime in the next two or three weeks. It's not too urgent.\n\nMario: Sure, no problem. I can do it this week.\n\nSusanne: There's no hurry. Take your time."
+    },
+    {
+      "id": 3,
+      "lessonId": 3,
+      "audioFileName": "a1_l3.mp3",
+      "transcript": "John: Hi, this is John. Thanks for calling. I'm not here at the moment, so please leave a message and I'll call you back.\n\nMarina: Hi, John, this is Marina Silva calling from Old Time Toys. Your colleague Alex gave me your phone number. She said you can help me.\n\nI need some information on your new products. Could you please call me when you are back in the office? My phone number is 0-2-0-8, 6-5-5-7-6-2-1.\n\nAlso, can you please email me your new brochure and information about your prices? My email address is Marina, that's M-A-R-I-N-A, dot Silva, S-I-L-V-A, at O-L-D-T-I-M-E hyphen toys dot com.\n\nThanks a lot. I look forward to hearing from you."
+    },
+    {
+      "id": 4,
+      "lessonId": 4,
+      "audioFileName": "a2_l1.mp3",
+      "transcript": "Waiter: Hello.\nJamie: Hi. A table for two, please.\nWaiter: Of course. Over here, please. Here’s the menu.\nSally: Thank you.\n(pause)\nWaiter: Are you ready to order?\nSally: Yes, we are.\nWaiter: What would you like for your starter?\nJamie: I’d like French onion soup, please.\nSally: And I’ll have a tomato salad, please.\nWaiter: And for your main course?\nJamie: Mmm, I’m not sure. I don’t know whether to have the steak or Thai chicken.\nSally: Oh, I’d like the Thai chicken and rice please.\nJamie: OK, me too.\nWaiter: So that’s two Thai chicken and rice. What would you like to drink?\nJamie: I’ll have a fresh orange juice and ...\nSally: I’d like some mineral water, please.\nWaiter: OK, thank you."
+    },
+    {
+      "id": 5,
+      "lessonId": 5,
+      "audioFileName": "a2_l2.mp3",
+      "transcript": "Receptionist: Good morning, Brownton swimming pool.\nTyrone: Hello, I’d like some information about the water polo club.\nReceptionist:  Yes, of course. We have an under 14s club, an under 16s club, an under 18s club and an adults club. How old are you?\nTyrone: I’m 15.\nReceptionist: OK, so you want the under 16s club.\nTyrone: Yes.\nReceptionist: Just a moment ... yes, we have two places in the under 16s club.\nTyrone: When do they train?\nReceptionist: Let’s see, the under 16s train two evenings a week, on Mondays, no sorry, on Tuesdays and Thursdays from 6:30 – 8:00pm. And matches are on Saturday mornings.\nTyrone: When does the training start?\nReceptionist: Training starts next week, on September 2nd.\nTyrone: OK. And how much are the classes?\nReceptionist: Classes are free for under 18s.\nTyrone: Great! What do I have to do to join?\nReceptionist: You have to come to the swimming pool and complete a form. You need to bring a photograph too.\nTyrone: OK.\nReceptionist: Can I take your name?\nTyrone: Yes, it’s Tyrone Williams. \nReceptionist: OK, thanks. Tyrone. \nTyrone: Thanks. Bye."
+    },
+    {
+      "id": 6,
+      "lessonId": 6,
+      "audioFileName": "a2_l3.mp3",
+      "transcript": "A\nGo straight on. Then take the first left on to Green Street. Walk past the library and it’s the building next to the library on the left.\n\nB\nGo straight on. Go past the traffic lights. You will see a shop on the right. Go past that and it’s on the right next to the shop.\n\nC\nGo straight on. Go past the traffic lights and go straight on until you get to the roundabout. At the roundabout turn left. Go past the theatre. It’s the building next to the theatre, opposite the hospital.\n\nD\nGo straight on. Go past the traffic lights and take the second right on to King’s Road. Go past the bookshop. It’s the building next to the bookshop opposite the café."
+    }
+  ]
+}
